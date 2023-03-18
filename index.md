@@ -1,4 +1,5 @@
-<head>
+<!DOCTYPE html>
+    <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YL5LLXXM92"></script>
 <script>
